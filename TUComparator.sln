@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUComparatorLibrary", "TUComparator\TUComparatorLibrary.csproj", "{889EB708-B941-4A1B-9019-608FB09AE28E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUComparatorConsoleEntry", "TUComparatorConsoleEntry\TUComparatorConsoleEntry.csproj", "{8768CCB9-586A-4C94-ABB2-4B52902AFD3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUComparatorFrontEnd", "TUComparatorFrontEnd\TUComparatorFrontEnd.csproj", "{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889EB708-B941-4A1B-9019-608FB09AE28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889EB708-B941-4A1B-9019-608FB09AE28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889EB708-B941-4A1B-9019-608FB09AE28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889EB708-B941-4A1B-9019-608FB09AE28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8768CCB9-586A-4C94-ABB2-4B52902AFD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8768CCB9-586A-4C94-ABB2-4B52902AFD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8768CCB9-586A-4C94-ABB2-4B52902AFD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8768CCB9-586A-4C94-ABB2-4B52902AFD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EACA6B3-D2A2-4C59-8DA0-2508CB9A9AFB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0A7AAE-8FFA-482D-9D8B-AF0B1F733F69}
+	EndGlobalSection
+EndGlobal
